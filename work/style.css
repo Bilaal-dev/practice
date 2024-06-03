@@ -1,0 +1,71 @@
+*{
+    padding: 0%;
+    margin: 0%
+}
+.center{
+    margin:auto;
+    width: 50%;
+    background-color: rgba(250, 227, 227, 0.825);
+}
+.pic{
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    width: auto;
+    position: relative;
+    left: 18px;
+}
+.SO{
+    margin-bottom: 15px;
+    position: relative;
+    left: 18px;
+    font-size: 30px;
+}
+
+.preparation{
+    margin-top: 25px;
+    background-color: rgb(251, 247, 251);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    padding-left: 25px;
+}
+.PT{
+    padding-left: 15px;
+}
+.ingredients{
+    margin-top: 25px;
+}
+.inglist{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.instruct{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.instructions{
+    margin-bottom: 20px;
+    color: rgb(152, 6, 6);
+}
+
+.inst{
+    margin-bottom: 15px;
+}
+.nutrients{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    color: rgb(152, 6, 6);
+}
+.nutrienttable{
+    margin-bottom: 20px;
+}
+.nutrient{
+    position: relative;
+    left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.calories{
+    margin-right: auto;
+}

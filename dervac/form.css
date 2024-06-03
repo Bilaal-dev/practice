@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.yaba{
+    margin-left: 600px;
+    margin-top: 20px;
+    position: relative;
+    bottom: 250px;
+}
+.tonic{
+    text-align: center;
+    color: rgb(49, 49, 162);
+    font-weight: 700;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 220px;
+}
+
+.forms{
+
+    display: flex;
+    position: relative;
+    bottom: 200px;
+    left: 450px;
+}
+
+#name{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#mobile{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+}
+#mail{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#subject{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.form1{
+    margin-bottom: 150px;
+}
+.form2{
+    margin-top: 15px;
+}
+
+
+#message{
+    width: 620px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 5px 5px 70px 7px;
+    margin-top: 15px;
+}
+
+
+.button{
+    width: 635px;
+    border-radius: 5px;
+    height: 45px;
+    margin-top: 15px;
+    background-color:rgb(37, 85, 228);
+    color: white;
+}
+
+.foot{
+    text-align: center;
+    margin-top: -320px;
+}
+
